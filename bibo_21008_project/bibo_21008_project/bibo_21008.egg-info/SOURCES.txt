@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+bibo_21008/__init__.py
+bibo_21008/plots.py
+bibo_21008/styles.py
+bibo_21008.egg-info/PKG-INFO
+bibo_21008.egg-info/SOURCES.txt
+bibo_21008.egg-info/dependency_links.txt
+bibo_21008.egg-info/requires.txt
+bibo_21008.egg-info/top_level.txt
