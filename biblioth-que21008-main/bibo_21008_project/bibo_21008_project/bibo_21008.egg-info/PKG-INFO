@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: bibo_21008
+Version: 0.1.0
+Summary: Personal plotting library with a consistent style (bibo_21008).
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: geopandas>=0.12
+Requires-Dist: bokeh>=3.0
+Requires-Dist: shapely>=2.0
+Requires-Dist: pandas>=1.5
+
+# bibo_21008
+
+A small personal visualization library providing styled Matplotlib plots.
+
+## Install
+```bash
+pip install -e .
+```
+
+## Usage
+```python
+import bibo_21008
+bibo_21008.styled_line(x=[1,2,3], y=[4,2,5], title="My styled plot")
+```

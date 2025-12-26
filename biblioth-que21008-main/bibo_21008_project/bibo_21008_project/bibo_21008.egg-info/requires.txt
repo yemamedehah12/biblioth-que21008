@@ -1,0 +1,5 @@
+matplotlib>=3.7
+geopandas>=0.12
+bokeh>=3.0
+shapely>=2.0
+pandas>=1.5
